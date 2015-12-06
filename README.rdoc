@@ -1,0 +1,3 @@
+== README
+
+This was for a homework assignment for General Assembly. It is a demonstration of ability to create a simple CRUD application and push to github.
